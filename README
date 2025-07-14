@@ -1,3 +1,0 @@
-## Events:
-
-In Solidity, an **event** is a mechanism that allows your smart contract to log information on the blockchain. These logs can be accessed and monitored by off-chain applications such as dApps, frontends, or blockchain indexers.
