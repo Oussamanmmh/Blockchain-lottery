@@ -1,0 +1,8 @@
+#hardhat gitignore file
+node_modules/
+artifacts/
+cache/
+.env
+coverage/
+.vscode/
+.dist/
