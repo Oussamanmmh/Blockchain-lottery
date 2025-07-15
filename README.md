@@ -45,3 +45,8 @@ In blockchain, randomness is crucial for applications like lotteries, games, and
 ### Virtuel Key word in Solidity
 
 The `Virtuel` keyword in Solidity is used to define functions that can be overridden by derived contracts
+
+### The Chainlink Keeper
+
+Chainlink Keepers (renamed to Chainlink Automation) is a decentralized automation service that allows smart contracts to perform automated, scheduled, or conditional actions on-chain — without manual intervention.
+Since smart contract can not excute functions by themselves , Cahinlink Keepers Let You automat smart contract executions based on specific conditions.
